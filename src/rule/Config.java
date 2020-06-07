@@ -49,5 +49,33 @@ public class Config {
         public static final String FORMAT = "%.0f0.000 USD";
     }
 
+    public static class VND {
+        public static final double EX = 2.0;
+        public static final double DEVIATION = 1.0;
+        public static final String FORMAT = "%.1f tỷ đồng";
+    }
 
+    public static class StockAmount {
+        public static final double EX = 500;
+        public static final double DEVIATION = 250;
+        public static final String FORMAT = "%.0f.000 đơn vị";
+    }
+
+    public static class PreviousAmount {
+        public static final double EX = 250;
+        public static final double DEVIATION = 100;
+        public static final String FORMAT = "%.0f.000 đơn vị";
+    }
+
+    public static class LaterAmount {
+        public static final double EX = 600;
+        public static final double DEVIATION = 200;
+        public static final String FORMAT = "%.0f.000 đơn vị";
+    }
+
+    public static class TransactionValue {
+        public static final double EX = 5.0;
+        public static final double DEVIATION = 2.0;
+        public static final String FORMAT = "%.1f tỷ đồng";
+    }
 }

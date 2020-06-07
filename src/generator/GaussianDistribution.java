@@ -4,7 +4,7 @@ import rule.Config;
 
 import java.util.Random;
 
-public class GaussianGenerator {
+public class GaussianDistribution {
     private static final Random rand = new Random();
 
     private static double sample(double expectation, double stdDeviation) {
@@ -72,6 +72,36 @@ public class GaussianGenerator {
                         Config.USD.EX,
                         Config.USD.DEVIATION
                 );
+            case "StockAmount":
+                return generateFormat(
+                        Config.StockAmount.FORMAT,
+                        Config.StockAmount.EX,
+                        Config.StockAmount.DEVIATION
+                );
+            case "PreviousAmount":
+                return generateFormat(
+                        Config.PreviousAmount.FORMAT,
+                        Config.PreviousAmount.EX,
+                        Config.PreviousAmount.DEVIATION
+                );
+            case "LaterAmount":
+                return generateFormat(
+                        Config.LaterAmount.FORMAT,
+                        Config.LaterAmount.EX,
+                        Config.LaterAmount.DEVIATION
+                );
+            case "TransactionValue":
+                return generateFormat(
+                        Config.TransactionValue.FORMAT,
+                        Config.TransactionValue.EX,
+                        Config.TransactionValue.DEVIATION
+                );
+            case "VND":
+                return generateFormat(
+                        Config.VND.FORMAT,
+                        Config.VND.EX,
+                        Config.VND.DEVIATION
+                );
             default:
                 throw new Exception("The term \"" + term + "\" has no generator");
         }
@@ -81,7 +111,7 @@ public class GaussianGenerator {
 
         for (int i = 0; i < 10; i++) {
             try {
-                System.out.println(GaussianGenerator.generate("USD"));
+                System.out.println(GaussianDistribution.generate("TransactionValue"));
             } catch (Exception e) {
                 System.out.println(e.getMessage());
             }

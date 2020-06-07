@@ -1,36 +1,32 @@
 package sentence;
 
-import generator.GaussianGenerator;
-import generator.UniformGenerator;
-import rule.Terms;
+import generator.DataGenerator;
 
 import java.util.StringTokenizer;
 
 public class Sentence {
-    private String template;
-    private static String delim = "|";
-    private StringBuffer strbuf = new StringBuffer("");
+    private final String template;
+    private static final String DELIM = "|";
+    private StringBuffer result;
     private StringTokenizer strtok;
+    private DataGenerator dataGen;
 
-    Sentence() {
-        // load sentence from file
+    public Sentence(String template) {
+        this.template = template;
     }
 
     public String build() {
-        strtok = new StringTokenizer(template, delim);
+        strtok = new StringTokenizer(template, DELIM);
+        result = new StringBuffer("");
+        dataGen = new DataGenerator();
         while(strtok.hasMoreTokens()) {
             try {
                 String token = strtok.nextToken();
-                if (Terms.GAUSSIAN_DISTRIBUTED.contains(token))
-                    strbuf.append(GaussianGenerator.generate(token));
-                else if (Terms.UNIFORM_DISTRIBUTED.contains(token))
-                    strbuf.append(UniformGenerator.generate(token));
-                else
-                    strbuf.append(token);
+                result.append(dataGen.generate(token));
             } catch (Exception e) {
                 System.out.println(e.getMessage());
             }
         }
-        return strbuf.toString();
+        return result.toString();
     }
 }
