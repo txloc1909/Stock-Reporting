@@ -28,18 +28,20 @@ public class Config {
     }
 
     public static class Percentage {
-        public static Map<String, Double> ex = Map.of(
-                "big", 70.0,
-                "medium", 30.0,
-                "small", 5.0,
-                "tiny", 0.5
-        );
-        public static Map<String, Double> deviation = Map.of(
-                "big", 20.0,
-                "medium", 10.0,
-                "small", 2.5,
-                "tiny", 0.3
-        );
+        public static Map<String, Double> ex = new HashMap<>();
+        static {
+            ex.put("big", 70.0);
+            ex.put("medium", 30.0);
+            ex.put("small", 5.0);
+            ex.put("tiny", 0.5);
+        };
+        public static Map<String, Double> deviation = new HashMap<>();
+        static {
+            deviation.put("big", 20.0);
+            deviation.put("medium", 10.0);
+            deviation.put("small", 2.5);
+            deviation.put("tiny", 0.3);
+        }
         public static final String FORMAT = "%.1f%%";
     }
 
