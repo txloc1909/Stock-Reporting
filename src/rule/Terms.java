@@ -7,7 +7,7 @@ public class Terms {
     public static final ArrayList<String> GAUSSIAN_DISTRIBUTED = new ArrayList<>(Arrays.asList(
             "StockPrice", "StockPriceVariation", "StockAmount", "Score", "ScoreVariation",
             "BigPercentage", "MediumPercentage", "SmallPercentage", "TinyPercentage", "USD",
-            "TransactionValue", "PreviousAmount", "LaterAmount"
+            "TransactionValue", "PreviousAmount", "LaterAmount", "VND"
     ));
 
     public static final ArrayList<String> UNIFORM_DISTRIBUTED = new ArrayList<>(Arrays.asList(
