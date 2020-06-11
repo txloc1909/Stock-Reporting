@@ -1,0 +1,23 @@
+Trong ngày giao dịch không hưởng quyền, |StockCode| mua bán ở giá |StockPrice|.
+Có |StockAmount| |StockCode| được mua bán trao tay với giá trị |TransactionValue|.
+Cùng với đó, cổ phiếu |StockCode| được bán ra với |StockAmount|.
+Mã chứng khoán của công ty là |StockCode| với mệnh giá |StockPrice| mỗi cổ phiếu.
+|StockCode|, |StockCode|, |StockCode| đều đang được mua bán dưới |StockPrice|.
+Cụ thể, chỉ trong ngày |Date|/ |Month|, |StockCode| đã bán xong |StockAmount| cổ phiếu |StockCode|.
+Sau 2 phiên thỏa thuận khối lượng lớn tuần trước, đầu tuần này, |StockCode| tiếp tục thỏa thuận |StockAmount|, trị giá |TransactionValue|.
+Tại thời điểm đóng cửa sàn giao dịch, dư bán của |StockCode| ở mức giá khớp lệnh (|StockPrice|) còn gần |StockAmount|.
+Với biên độ dao động cho phiên chào sàn |MediumPercentage|, giá tham chiếu |StockPrice|, |StockCode| chỉ khớp lệnh thành công ở giá |StockPrice|.
+Cuối phiên, HBB được khớp tới |StockAmount|, với giá vẫn giữ nguyên là |StockPrice| một cổ phiếu.
+Cũng trong phiên hôm nay, |StockCode| đứng giá tham chiếu tại sàn khớp lệnh, khối lượng giao dịch khoảng |StockAmount|.
+|StockCode| khớp lệnh có |StockAmount| với giá |StockPrice|, |StockCode| có cùng mức giá, khối lượng khớp |StockAmount|.
+Cuối tuần trước, |Company| đã bán |StockAmount| |StockCode| và |Company| đã bán |StockAmount| |StockCode|, đều cho nhà đầu tư nước ngoài.
+Dù tăng giá tương đương |StockCode| (|Company|) với |VND|/cổ phiếu, song lượng bán ra của |StockCode| lên tới gần |StockAmount|, đạt giá trị |VND|, tức là |MediumPercentage| tổng số.
+Ở chiều ngược lại, |StockCode| của |Company| là cổ phiếu bị bán ròng mạnh nhất với |VND|, trong đó có hơn |VND| được thực hiện qua giao dịch thỏa thuận.
+Trên |StockExchange|, |StockCode| và |StockCode| là 2 mã bị bán mạnh nhất trong tuần với lượng bán ròng lần lượt đạt |StockAmount| và 3 |StockAmount|.
+Đến 9h30, giao dịch thỏa thuận đã ghi nhận hơn |StockAmount| |StockCode| được chuyển nhượng, với giá trị gần |TransactionValue|, chiếm |MediumPercentage| giá trị giao dịch toàn sàn tại thời điểm đó.
+Mã bị bán ròng mạnh nhất là HAG với trị giá hơn 416 tỷ đồng, tương đương gần 19 triệu cổ phiếu bao gồm cả khớp lệnh tại sàn và thỏa thuận.
+Hai mã chuyển nhượng nhiều nhất là SHB và PVX lần lượt sang tay gần 1,6 triệu cổ phiếu và hơn 1 triệu cổ phiếu, giá giảm nhẹ lần lượt 200 đồng và 100 đồng.
+Trong phiên giao dịch hôm nay |Date|/|Month|, cổ phiếu |StockCode| còn |StockPrice|.
+|StockCode| |Score| triệu cổ phiếu nhưng chỉ bán được |StockAmount| đơn vị, ông đánh giá như thế nào về kết quả này?
+Theo đó, |StockCode| dự kiến bán hơn |StockAmount| cổ phiếu |StockCode| với giá khởi điểm |StockPrice| mỗi cổ phần.
+|StockCode|, |StockCode|, |StockCode|, |StockCode|, |StockCode|, |StockCode| đã xuất hiện dư bán.

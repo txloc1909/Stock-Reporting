@@ -1,0 +1,120 @@
+Trong đó, đáng chú ý là việc cổ phiếu |StockCode| rớt |StockPriceVariation| (tương đương |SmallPercentage|).
+Kim chỉ nam của thị trường là |StockCode| dè dặt giảm |StockPricVariation|, giao dịch |StockAmount|.
+Cổ phiếu ngân hàng |Company| giảm đi |StockPriceVariation| nhưng có đến |StockAmount| giao dịch thành công.
+Blue-chip |StockCode| dù mất đi |StockPriceVariation| nhưng có đến |StockAmount| giao dịch thành công.
+Trong ngày giao dịch không hưởng quyền, |StockCode| mất giá |StockPriceVariation|.
+Trong nhóm cổ phiếu chủ chốt có |StockCode| tăng giá |StockPriceVariation| lên |StockPrice|, khối lượng khớp lệnh |StockAmount|, |StockCode| tiếp tục đứng yên ở |StockPrice| so với phiên hôm qua, |StockCode| giảm |StockPriceVariation|.
+Đợt khớp lệnh mở cửa, |Index| giảm |Score| (|TinyPercentage|) khi các đại gia như |StockCode|, |StockCode|, |StockCode|, |StockCode| lần lượt không giữ được mức giá tham chiếu và trượt dốc từ |PreviousAmount| đến |LaterAmount|.
+Chỉ số  |StockCode| của |Country| hạ thấp |SmallPercentage|.
+Chỉ số |StockCode| của |Country| giảm nhẹ |TinyPercentage|.
+Lượng bán cổ phiếu |StockCode| giảm |BigPercentage| so với phiên trước nên tổng giá trị giao dịch phiên |Date|/|Month| chỉ đạt |TransactionValue|.
+Trong khi đó, giá |StockCode| giảm |StockPriceVariation|, khớp lệnh được |StockAmount| trị giá tổng cộng hơn |TransactionValue|, cao nhất thị trường.
+Hôm nay, |StockCode| chỉ khớp lệnh được |StockAmount|, đạt giá trị giao dịch |TransactionValue|, thấp nhất kể từ đầu tháng 5.
+Đầu tàu |StockCode| trong phiên giao dịch sáng nay khớp lệnh thấp hơn phiên trước |StockPriceVariation|, đóng cửa ở mức |StockPrice|/cổ phiếu.
+Phiên này lượng cung, cầu |StockCode| vẫn lớn song giá đã giảm |StockPriceVariation| xuống mức |StockPrice|, |StockAmount| được khớp lệnh.
+Trong phiên chào sàn, |StockCode| khớp lệnh với giá |StockPrice|/cổ phiếu, thấp hơn |StockPriceVariation| so với giá giao dịch dự kiến.
+Giá dự kiến |StockPrice|/cổ phiếu nhưng kết thúc phiên chào sàn, giá khớp lệnh của |StockCode| chốt ở mức |StockPrice|.
+Trong phiên giao dịch ngày |Date|/|Month|, cổ phiếu |StockCode| có thời điểm giảm |StockPriceVariation| (gần |SmallPercentage|) với khối lượng khớp lệnh chỉ |StockAmount| (khoảng |TransactionValue|).
+Cổ phiếu khớp nhiều nhất phiên sáng là |StockCode| với hơn |StockAmount|, giá giảm sàn, còn |StockPrice| một cổ phiếu.
+Khối lượng cổ phiếu |StockCode| được khớp lệnh phiên này lên tới |StockAmount| ở giá |StockPrice|/CP, giảm |StockPriceVariation|.
+Đóng cửa thị trường, mặc dù khối lượng cổ phần chuyển nhượng thành công lên tới |StockPrice|, |StockCode| giảm |ScoreVariation|, xuống giá |StockPrice|.
+|StockCode|, |StockCode| giảm sàn từ đầu phiên với mức dư bán sàn lên tới hơn |StockAmount|.
+Kết thúc phiên sáng |Date|/|Month|, cổ phiếu |StockCode| giao dịch ở mức |StockPrice| mỗi cổ phiếu, giảm |StockPriceVariation| so với giá tham chiếu.
+Đến cuối phiên, cổ phiếu |StockCode| giảm sàn gần |SmallPercentage| biên độ xuống |StockPrice| với khối lượng giao dịch gần |StockAmount|.
+Với giá khớp thấp hơn mức trần 1.800 đồng/cổ phiếu, khối lượng khớp lệnh của AGF đạt mức cao nhất 44.260.
+|StockCode|, |StockCode| đều giảm |StockPriceVariation|, khớp lệnh ở mức giá |StockPrice| và |StockPrice|, khối lượng khớp lệnh hai mã đạt gần |StockAmount|.
+Cổ phiếu ngân hàng, đóng cửa phiên sáng, hầu hết giảm, duy nhất |StockCode| đứng giá ở mức |StockPrice|, sang tay hơn |StockAmount|.
+Bán ra mạnh nhất rổ là |StockCode|, với lượng sang tay hơn |StockAmount|, giá giảm |StockPriceVariation|, còn |StockPrice|.
+|StockCode| đứng giá tham chiếu, |StockCode| giảm |StockPriceVariation|, khớp lệnh nhiều nhất sàn với hơn |StockAmount|, vượt hẳn |StockCode|.
+|StockCode| giảm |StockPriceVariation|, khớp lệnh hơn |StockAmount| trong khi |StockCode| đứng giá tham chiếu, giao dịch trên |StockAmount|.
+|StockCode| đứng giá tham chiếu, khớp lệnh hơn |StockAmount|, |StockCode| cũng giảm |StockPriceVariation| và giao dịch trên |StockAmount|.
+|StockCode| đứng giá tham chiếu còn |StockCode| giảm |StockPriceVariation|, khối lượng giao dịch đạt lần lượt hơn |StockAmount| và |StockAmount|.
+|StockCode| giảm |StockPriceVariation|, khớp lệnh trên |StockAmount| trong khi |StockCode| cũng mất |StockPriceVariation| và giao dịch hơn |StockAmount|.
+|StockCode|, |StockCode|, |StockCode| sang tay |StockAmount|, lượng giao dịch xuống thấp so với các phiên trước.
+|StockCode| giảm |StockPriceVariation|, khớp lệnh hơn |StockAmount|, |StockCode| cũng giảm |StockPriceVariation| với hơn |StockAmount| được giao dịch.
+Tiếp sau đó là |StockCode| và |StockCode| giảm lần lượt |ScoreVariation| và |ScoreVariation|.
+Tiếp sau đó là |StockCode| và |StockCode| có tác động giảm lần lượt là |ScoreVariation| và |ScoreVariation|.
+Tiếp sau đó là |StockCode| và |StockCode| đều có mức giảm là |ScoreVariation|.
+Trong đó, giảm mạnh nhất phải kể đến |StockCode| khi mất |MediumPercentage| giá, xuống còn |StockPrice| một cổ phiếu, theo dữ liệu của |Press| và đối tác cung cấp dữ liệu VNDirect.
+Rất nhiều gương mặt lớn mất điểm như |StockCode| mất |ScoreVariation|, xuống giá |StockPrice|, |StockCode| và |StockCode| cùng rơi |ScoreVariation|, chốt lần lượt ở mức |StockPrice| và |StockPrice|.
+Trong 10 mã có giá trị vốn hóa lớn nhất |StockExchange|, chỉ mỗi |StockCode| bật xanh tăng nhẹ |ScoreVariation|, |StockCode| cùng |StockCode| xuống |ScoreVariation|, còn lại vơi |ScoreVariation|.
+Đến |Hour|, |StockCode| giảm sàn, |StockCode| giao dịch quanh mốc tham chiếu, |Index| mất tới hơn |ScoreVariation| với số cổ phiếu giảm điểm tương đương với lượng tăng.
+Vươn lên dẫn đầu với |StockAmount| khớp lệnh, |StockCode| thực sự sôi động với sự đảo chiều |StockAmount| chạm sàn đợt 1 và |StockAmount| kịch trần trong đợt 3.
+|Index| mất phanh ngay từ đợt khớp lệnh đầu tiên khi hàng loạt mã blue-chip như |StockCode|, |StockCode|, |StockCode|, |StockCode|, |StockCode| trượt dài từ |StockPriceVariation|-|StockPriceVariation| một cổ phiếu.
+Sau hơn một giờ đồng hồ giao dịch, rổ VN30 được lực đỡ từ |StockCode|, |StockCode|, |StockCode|, |StockCode|, |StockCode| tăng |StockPriceVariation| nhưng chỉ số |StockExchange| vẫn trượt nhẹ.
+Ba mã vốn hóa lớn gồm: |StockCode|, |StockCode|, |StockCode| suy yếu chính là lực cản khiến chỉ số |StockExchange| chưa thể chạm mốc |Score| trước giờ đóng cửa.
+Theo sau là |StockCode|, |StockCode|, |StockCode|, |StockCode|, |StockCode|, |StockCode| đều sa sút so với phiên sáng đã khiến chỉ số |StockExchange| mất hết lực đỡ.
+Giảm sâu hơn đợt đầu, |Index| sau hơn một giờ khớp lệnh liên tục dừng ở |Score|, chỉ 4 mã xanh (|StockCode|, |StockCode|, |StockCode|, |StockCode| giữa một rừng sắc đỏ.
+Hàng loạt trụ cột sáng nay giảm điểm, song tới cuối phiên |StockCode| vọt lên giá trần, |StockCode|, |StockCode|, |StockCode| giữ nguyên sắc xanh, giúp chỉ số "gượng nhẹ" về cuối ngày.
+|StockCode|, |StockCode|, |StockCode|, |StockCode|, |StockCode| giữ mức tăng nhẹ tới cuối ngày, song có nhiều cổ phiếu giảm sâu hơn trong phiên chiều khiến |Index| lùi sát về mốc |Score|.
+|StockCode|, một trong những mã vốn hóa lớn sa sút, |StockCode| rớt |StockPriceVariation|, cùng với |StockCode|, |StockCode| chỉ đi ngang khiến |Index| giảm |ScoreVariation|, trượt nhẹ về |Score|.
+Về cuối phiên, |StockCode|, |StockCode|, |StockCode|, |StockCode|, |StockCode|, |StockCode| quay đầu giảm điểm khiến chỉ số |StockExchange| giảm đà tăng rồi bất ngờ bật chỉ báo đỏ.
+Tuy nhiên xu thế trái chiều giữa hai sàn HNX và HSX tiếp tục diễn ra khi chỉ số HNX-Index đảo chiều giảm nhẹ |ScoreVariation| xuống còn |Score|.
+Lúc |Hour|, |Index| nhích lên |Score| nhưng chỉ duy trì được gần 20 phút thì bắt đầu rung lắc với |StockCode|, |StockCode|, |StockCode|, |StockCode|, |StockCode|, |StockCode| chuyển đỏ.
+Mở cửa giao dịch sau hai phiên giảm mạnh liên tiếp, một số cổ phiếu lớn hồi phục như |StockCode|, |StockCode|, |StockCode|, |StockCode|, |StockCode| làm trụ đỡ giúp |Index| đảo chiều.
+Lúc |Hour| chỉ số |Index| bật lên |Score| nhưng cổ phiếu ngân hàng sa sút hàng loạt cộng thêm |StockCode| rớt |StockPriceVariation| trở thành lực cản kéo thị trường rời khỏi vùng |Score|.
+Càng về cuối phiên, |StockCode| mất giá mạnh hơn đầu ngày, |StockCode| và |StockCode| chuyển từ vạch tham chiếu sang đỏ sàn, |StockCode| và |StockCode| đi ngang.
+|StockCode| và |StockCode| đi lên khá mạnh mẽ, |StockCode| và |StockCode| đứng giá tham chiếu trong khi |StockCode| chưa thể bật tăng trở lại sau phiên giảm giá đầu tuần.
+|StockExchange| đầu ngày bị điều chỉnh giảm nhẹ nhưng cuối phiên sáng vẫn phủ xanh nhờ |StockCode|, |StockCode|, |StockCode|, |StockCode|, |StockCode|, |StockCode| tăng |StockPriceVariation|-|StockPriceVariation|.
+Gần |Hour|, thị trường mất đà tăng và tuột xuống |Score| vì midcap cùng một vài blue-chip bất động sản gồm: |StockCode|, |StockCode|, |StockCode|, |StockCode|, |StockCode|, |StockCode| trượt nhẹ.
+Sau hai giờ đồng hồ giao dịch, cổ phiếu dầu khí đua nhau mất giá, |StockCode| đầu ngày còn tăng |StockPriceVariation| nhưng lúc |Hour| chỉ nỗ lực bám vạch tham chiếu.
+Một số blue-chip sản xuất giảm giá như |StockCode| mất |StockPriceVariation|, |StockCode|, |StockCode| hạ |StockPriceVariation|, |StockCode| và |StockCode| rơi |StockPriceVariation| nhưng chỉ làm |Index| giảm nhẹ và vẫn duy trì trên |Score|.
+Các mã vốn hóa lớn: |StockCode|, |StockCode|, |StockCode| lần lượt giảm |StockPriceVariation|-|StockPriceVariation|, góp phần kéo |Index| đi giật lùi bất chấp |StockCode|, |StockCode| duy trì sắc xanh đến cuối ngày.
+Cổ phiếu này cùng một số mã lớn khác như |StockCode|, |StockCode|, |StockCode|, |StockCode| giảm suy yếu cuối phiên là nguyên nhân khiến |Index| giảm điểm trước giờ đóng cửa.
+|StockCode| có lúc giảm sàn, chốt phiên rớt |StockPriceVariation| còn các mã |StockCode|, |StockCode|, |StockCode|, |StockCode|... cũng có đà đi xuống mạnh hơn hôm qua.
+Ở chiều ngược lại, cổ phiếu |StockCode| giảm mạnh nhất nhóm bluechip với biên độ |SmallPercentage| do lực chốt lời tăng cao, |StockCode| giảm |TinyPercentage|, |StockCode| và |StockCode| giảm trên |TinyPercentage|.
+Toàn phiên sáng nay có tới |StockAmount| giảm sàn, hai đại gia |Company| và |Company| cũng góp mặt.
+Trong khi |Company| giảm giá |VND| tại |StockExchange| thì trên |StockExchange|, |Company| lại tăng giá |VND|.
+Tại sàn Hà Nội, ACB và SHB đi ngược chiều nhau, lần lượt tăng và giảm 100 đồng một cổ phiếu.
+Những cổ phiếu rớt giá hơn |MediumPercentage| trong tháng 9 gồm: |StockCode|, |StockCode|, |StockCode|, |StockCode| sáng nay đồng loạt giảm sàn.
+Nhóm cổ phiếu có khối lượng giao dịch lớn giảm giá nhẹ như |StockCode| giảm |VND|, |StockCode| giản |VND|, |StockCode| giảm |VND|.
+Ngược lại, |StockCode| - cổ phiếu có vốn hóa lớn nhất |StockExchange| - lại gần như dậm chân tại chỗ.
+|StockExchange|, |BigPercentage|  blue-chip giảm giá, trong đó giảm mạnh nhất là |StockCode| và |StockCode| với trên |VND|.
+Nhóm cổ phiếu vốn hóa lớn như |StockCode|, |StockCode|, |StockCode| và nhiều mã dầu khí suy yếu mạnh hơn đầu ngày.
+|BigPercentage|  cổ phiếu |StockExchange| rớt giá, chỉ có |StockCode| và |StockCode| là hai mã hiếm hoi thuộc rổ này bật xanh.
+Các tên tuổi như |StockCode|, |StockCode|, |StockCode| tiếp tục mất điểm với các mức lần lượt là |VND|, |VND| và |VND|.
+Trong đó, |StockCode| mất |VND|, với |StockAmount| khớp lệnh thành công ở giá |VND|; |StockCode| cũng giảm |VND|.
+Mặc dù phiên cuối tuần có sự sụt giảm mạnh và đứng ở mức |VND|/cổ phiếu nhưng |StockCode| đã vượt xa giá đỉnh đã lập được cách đây gần 10 |Month|.
+Sau khi giảm xuống mức |VND|/cổ phiếu trong phiên trước đó, |StockCode| đã tăng |VND| lên |VND|- đứng đầu trong số những cổ phiếu tăng giá, góp phần đáng kể vào sự tăng điểm của |Index|.
+Trước đó, |StockCode| đã có một đợt giảm giá trong giai đoạn từ |Month| đến |Month|, với mức giảm từ mốc |VND|/cổ phiếu đầu |Month| xuống khoảng |VND|/cổ phiếu vào |Month|.
+Còn nhớ, sau sự kiện ngày |Date|/|Month| khi ông Person, Phó chủ tịch Hội đồng sáng lập |Company| bị khởi tố, cổ phiếu này đã tụt dốc không phanh từ mức giá |USD|/cổ phiếu, giảm xuống chỉ còn |USD|/cổ phiếu đến ngày |Date|/|Month|.
+|StockCode| của |Company| đóng cửa ngày giao dịch cuối tuần tại mức |VND|, nối dài thành chuỗi ba phiên giảm điểm liên tiếp và khiến thị giá mất |VND|.
+Cổ phiếu |StockCode| đỏ sàn và đi ngang suốt tuần đầu năm mới với mức giảm |VND|, cổ phiếu |StockCode| giảm |VND| đã khiến tài sản của |President| cũng giảm khoảng |TransactionValue|.
+Chốt phiên chiều |Date|/|Month| - ngay sau khi Bộ Công an khám xét trụ sở |Company|  giá mỗi cổ phiếu |StockCode| của ngân hàng này giảm|VND| so với tham chiếu, xuống còn |VND|.
+Như vậy, |StockCode| đã liên tục sụt giảm sau 14 phiên giao dịch kể từ khi niêm yết đến nay - mất tới hơn 17 giá trị ( tương đương |VND|) so với mức giá được xác định vào phiên đầu tiên |VND|/cổ phiếu.
+Hôm qua là ngày |StockCode| giao dịch không nhận quyền chia cổ tức đợt II (|VND|/cổ phiếu), cổ phiếu này đã đóng cửa ở mức |VND|/cổ phiếu, thấp hơn |VND| so với phiên trước đó.
+Sau hơn 2 tháng có mặt trên thị trường, thị giá |StockCode| đến phiên gần nhất còn |VND|, giảm |MediumPercentage| so với mức giá khởi điểm phiên đầu tiên và giảm hơn |MediumPercentage| so với mức đỉnh từng xác lập.
+Đầu năm, giá |StockCode| trên |VND|, thậm chí có lúc vượt |VND| đồng nhưng sau đó giảm dần và khi rớt xuống |VND|(trong tháng 3), |President| đã bắt đáy để mua vào |StockAmount|.
+Trước đó, cổ phiếu |StockCode| đã giảm giá trong suốt tháng |Month|, từ mức |VND|/cổ phiếu vào đầu tháng xuống chỉ còn |VND| vào phiên giao dịch cuối cùng của tháng |Month|, giảm gần |MediumPercentage| trong vòng một tháng.
+Tiếp sau đó là một đợt tháo chạy không phanh, |StockCode| rơi từ đỉnh cao xuống đáy chỉ trong vài tháng ngắn ngủi cuối năm |Year| và tốc độ bán tháo mạnh mẽ từ đó đến hết năm |Year|.
+Tương tự như |StockCode|, |StockCode| sau khi đạt mức đỉnh vào nửa cuối năm |Year| với mức giá trên |VND|/cổ phiếu, đợt xả hàng mạnh đã diễn ra liên tục trong năm |Year| cổ phiếu lao dốc mạnh.
+Trong gần 2 tháng trở lại đây, giá dầu thô trên thị trường thế giới biến động khá mạnh, có lúc giá dầu |StockCode| tại New York đã giảm về gần |USD| một thùng - thấp nhất hơn 10 năm, trước khi tăng trở lại.
+Sau khi giảm gần |SmallPercentage| vào cuối tháng 1, |StockCode| bật tăng trở lại hơn gần |MediumPercentage|, lên mức đỉnh trong năm tại vùng giá trên |VND| (giá sau điều chỉnh) khi |Index| trở lại ngưỡng nghìn điểm.
+Tiết kiệm chi phí, |Company| giảm lỗ gần |TransactionValue|
+Tiết kiệm chi phí, |Company| giảm lỗ gần |TransactionValue|
+Lợi nhuận sau thuế của |Company| giảm |MediumPercentage|
+Sau soát xét, lợi nhuận của |Company| giảm |SmallPercentage|
+Trừ đi phần |StockCode| |SmallPercentage|%, |Company| |SmallPercentage|%, |StockCode| |SmallPercentage|%, "room" dành cho họ còn chưa đầy |SmallPercentage|%.
+Nguyên nhân do số lượng cổ phần tham dự có quyền biểu quyết hợp lệ (không bao gồm |StockCode|) đã không đủ |BigPercentage|%.
+Tuy doanh thu giảm trên |TransactionValue| tỷ nhưng chi phí tài chính của |StockCode| cũng giảm mạnh hơn |BigPercentage| tỷ đồng (theo báo cáo kiểm toán) nên lợi nhuận sau thuế chỉ giảm hơn |TransactionValue| tỷ đồng.
+Năm |Year|, doanh thu thuần của công ty mẹ |StockCode| giảm |MediumPercentage|% so với |year|, số lỗ cuối năm lên tới |TransactionValue| tỷ đồng, trong đó lỗ từ hoạt động tài chính là hơn |TransactionValue| tỷ đồng.
+Theo báo cáo tài chính quý III/|Year|, doanh thu |Company| giảm so với cùng kỳ, từ |TransactionValue| tỷ đồng xuống |TransactionValue| tỷ đồng, lợi nhuận sau thuế tăng từ |TransactionValue| tỷ lên |TransactionValue| tỷ đồng.
+|StockCode| đứng đầu nhóm giảm giá với |StockPrice|, khớp lệnh tại |StockAmount|; |StockCode| sau nhiều phiên liên tục tăng kịch trần đến phiên này giảm sàn |StockPriceVariation| xuống |StockPrice|.
+Sang phiên chiều, |Index| dao động tăng giảm thất thường và mất mốc |Score|, nhóm cổ phiếu ngân hàng có |StockCode|, |StockCode| giảm |StockPriceVariation| còn |StockCode| mất |StockPriceVariation|.
+Cổ phiếu chứng khoán, tài chính như |StockCode|, |StockCode|, |StockCode|, |StockCode|, |StockCode|... vẫn được chuyển nhượng mạnh nhưng khối lượng giao dịch toàn sàn vẫn giảm khoảng |StockAmount| so với phiên trước.
+Lợi nhuận |Company| giảm do trích lập dự phòng trái phiếu |StockCode|	Lượng bán cổ phiếu |StockCode| giảm |BigPercentage| so với phiên trước nên tổng giá trị giao dịch phiên |Date|/|Month| chỉ đạt |TransactionValue|.
+Khối lượng giao dịch cổ phiếu phiên này đạt |StockAmount| với giá trị 106,7 tỷ đồng, giảm gần |MediumPercentage|, trong đó có 2 mã giao dịch thoả thuận là |StockCode| và |StockCode| với giá trị hơn |TransactionValue|.
+Còn 3 cổ phiếu |StockCode|, |StockCode|, |StockCode| vẫn tiếp tục giảm giá.
+4 cổ phiếu giảm giá (|StockCode|, |StockCode|, |StockCode| và |StockCode|).
+|StockCode|, |StockCode|, |StockCode|, |StockCode| cũng giảm giá.
+Cùng với |StockCode|, 5 cổ phiếu |StockCode|, |StockCode|, |StockCode|, |StockCode|, |StockCode| cũng giảm giá.
+Có 4 cổ phiếu xuống giá (|StockCode|, |StockCode|, |StockCode|, |StockCode|).
+Lượng giao dịch của |StockCode|, |StockCode|, |StockCode| và |StockCode| giảm mạnh.
+Cổ phiếu giảm giá có |StockCode|, |StockCode|, |StockCode| và |StockCode|.
+Có 5 cổ phiếu giảm xuống giá sàn là |StockCode|, |StockCode|, |StockCode|, |StockCode|, |StockCode|.
+Các cổ phiếu khác như |StockCode|, |StockCode|, |StockCode| cũng rớt |StockPriceVariation|-|StockPriceVariation| đồng/cổ phiếu.
+Số còn lại đều giảm |StockPriceVariation| - |StockPriceVariation| đồng như |StockCode|, |StockCode|, |StockCode|, |StockCode|...
+Những cổ phiếu giảm giá còn có |StockCode|, |StockCode| -|StockPriceVariation| đồng; cổ phiếu |StockCode|, |StockCode|, |StockCode| -|StockPriceVariation| đồng.
+Cả phiên chỉ có 3 cổ phiếu là |StockCode|, |StockCode| và |StockCode| giảm giá |StockPriceVariation| đồng.
+Chỉ có 4 loại cổ phiếu là |StockCode|, |StockCode|, |StockCode| và |StockCode| giảm giá.
+Bằng chứng là vẫn có 3 loại cổ phiếu - |StockCode|, |StockCode| và |StockCode| - rớt giá.
