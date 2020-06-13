@@ -40,7 +40,7 @@ public class UniformDistribution {
         return String.format("%d", rand.nextInt(20) + 2000);
     }
 
-    public static String generate(String term) {
+    public static String generate(String term) throws Exception {
         switch (term) {
             case "StockCode":
                 return generateStockCode();
@@ -69,7 +69,7 @@ public class UniformDistribution {
             case "Year":
                 return generateYear();
             default:
-                return term;
+                throw new Exception("The term " + term + " has no generator!");
         }
     }
 }

@@ -16,7 +16,7 @@ public class GaussianDistribution {
     }
 
 
-    public static String generate(String term) {
+    public static String generate(String term) throws Exception {
         switch (term) {
             case "StockPrice":
                 return generateFormat(
@@ -103,7 +103,7 @@ public class GaussianDistribution {
                         Config.VND.DEVIATION
                 );
             default:
-                return term;
+                throw new Exception("The term " + term + " has no generator!");
         }
     }
 
