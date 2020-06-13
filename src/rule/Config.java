@@ -76,8 +76,8 @@ public class Config {
     }
 
     public static class TransactionValue {
-        public static final double EX = 5.0;
-        public static final double DEVIATION = 2.0;
+        public static final double EX = 10.0;
+        public static final double DEVIATION = 5.0;
         public static final String FORMAT = "%.1f tỷ đồng";
     }
 }
