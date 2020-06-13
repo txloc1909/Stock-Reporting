@@ -1,7 +1,5 @@
 package storage;
 
-import sentence.Sentence;
-
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
@@ -10,11 +8,12 @@ import java.util.Random;
 public class FileLoader {
     private String fileName;
     private int fileSize;
+    private final String PATH_PREFIX = System.getProperty("user.dir") + "\\src\\storage\\";
 
     public FileLoader(String filename) {
-        this.fileName = filename;
+        this.fileName = PATH_PREFIX + filename;
         try {
-            this.fileSize = getSizeofFile(filename);
+            this.fileSize = getSizeofFile(this.fileName);
         } catch (IOException ioe) {
             ioe.printStackTrace();
         }
@@ -47,17 +46,17 @@ public class FileLoader {
         return output;
     }
 
-    public static void main(String[] args) {
-        FileLoader fl = new FileLoader("C:\\Users\\ABC\\IdeaProjects\\OOP\\src\\storage\\tang.txt");
-        try {
-            for (int i = 0; i < 10; i++) {
-                String template = fl.readRandomLine();
-                //template = "Sau đợt phát hành, tổng số cổ phiếu của |StockCode| tăng từ |PreviousAmount| cổ phần lên |LaterAmount| cổ phần.";
-                Sentence s = new Sentence(template);
-                System.out.println(s.build());
-            }
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
-    }
+//    public static void main(String[] args) {
+//        FileLoader fl = new FileLoader("tang.txt");
+//        try {
+//            for (int i = 0; i < 10; i++) {
+//                String template = fl.readRandomLine();
+//                //template = "Sau đợt phát hành, tổng số cổ phiếu của |StockCode| tăng từ |PreviousAmount| cổ phần lên |LaterAmount| cổ phần.";
+//                Sentence s = new Sentence(template);
+//                System.out.println(s.build());
+//            }
+//        } catch (IOException e) {
+//            e.printStackTrace();
+//        }
+//    }
 }
