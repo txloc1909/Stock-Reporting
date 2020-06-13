@@ -1,35 +1,35 @@
-Lượng dư mua của |StockCode| tại giá trần còn khá cao: |StockAmount|.
-Kết thúc phiên, dư mua của |StockCode| còn xấp xỉ |StockAmount|.
-Giao dịch mua vào tập trung ở |StockCode| với khối lượng |StockAmount|.
-Lượng mua tập trung vào |StockCode| và |StockCode| với hơn |StockAmount|.
-Trong tuần qua, họ đặt mua tổng cộng có |StockAmount| |StockCode|.
+Lượng dư mua của cổ phiếu |StockCode| tại giá trần còn khá cao: |StockAmount|.
+Kết thúc phiên, dư mua của cổ phiếu |StockCode| còn xấp xỉ |StockAmount|.
+Giao dịch mua vào tập trung ở cổ phiếu |StockCode| với khối lượng |StockAmount|.
+Lượng mua tập trung vào cổ phiếu |StockCode| và cổ phiếu |StockCode| với hơn |StockAmount|.
+Trong tuần qua, họ đã đặt mua tổng cộng |StockAmount| cổ phiếu |StockCode|.
 Giao dịch cao tập trung ở các mã: |StockCode| (|StockAmount|), |StockCode| (|StockAmount|), |StockCode| (|StockAmount|), |StockCode| (|StockAmount|)...
-Trong ngày giao dịch không hưởng quyền, |StockCode| mua bán ở giá |StockPrice|.
-Có |StockAmount| |StockCode| được mua bán trao tay với giá trị |TransactionValue|.
-|StockCode|, |StockCode|, |StockCode| đều đang được mua bán dưới |StockPrice|.
+Trong ngày giao dịch không hưởng quyền, cổ phiếu |StockCode| mua bán ở giá |StockPrice|.
+Có |StockAmount|cổ phiếu |StockCode| được mua bán trao tay với giá trị |TransactionValue|.
+Các cổ phiếu |StockCode|, |StockCode|, |StockCode| đều đang được mua bán dưới |StockPrice|.
 Lực mua bắt đáy dồn vào các mã giảm điểm mạnh như |StockCode|, |StockCode| (giảm sàn, khớp được trên |StockAmount|) và |StockCode| (giảm |StockPriceVariation|, khớp được hơn |StockAmount|).
 Trong tháng |Month|, |StockCode| chi |TransactionValue| để mua lại |StockAmount| cổ phần.
 Tháng |Month|/|Year|, |StockCode| đã mua thêm |StockAmount| cổ phiếu của công ty |Company|  với giá trị |TransactionValue|.
 |StockCode| chào mua công khai |StockAmount| cổ phiếu tương đương tỷ lệ |MediumPercentage| cổ phiếu đang lưu hành của |StockCode|.
-Đối tác |Country| mua lại |MediumPercentage| cổ phần của |StockCode| với giá trị tương đương |TransactionValue| USD.
+Đối tác |Country| mua lại |MediumPercentage| cổ phần của |StockCode| với giá trị tương đương |TransactionValue|.
 Trong ngày cuối tuần, |StockExchange| đón gần |StockAmount| của một doanh nghiệp là nhà phân phối ngành hàng điện tử, công nghệ thông tin và viễn thông - |Company| (mã |StockCode|).
 Mới đây, một cổ đông của |StockCode| là |Company| vừa cho biết từ ngày |Date|/|Month|, đơn vị này sẽ bắt đầu mua hơn |StockAmount| nhà băng trong suốt một tháng.
-Trong cuộc khủng hoảng tài chính tháng 9/2008, |President| đã mua lại gần |SmallPercentage| cổ phiếu |Company| được niêm yết trên |StockExchange|.
+Trong cuộc khủng hoảng tài chính tháng |Month|/|Year|, |President| đã mua lại gần |SmallPercentage| cổ phiếu |Company| được niêm yết trên |StockExchange|.
 Trước đó, ngày |Date|/|Month|, cổ đông của |Fund| và |Fund| thuộc Saigon Asset Management (SAM) cũng đã biểu quyết nhất trí tiếp tục gia hạn hoạt động của hai quỹ này thêm 3 năm.
 |Fund| vừa ký cam kết với |Company| (mã chứng khoán |StockCode|) về việc rót |TransactionValue| để mua cổ phiếu |StockCode| trong 3 tháng tới.
-Trên bảng tổng sắp các loại cổ phiếu được mua bán nhiều, |StockCode| dẫn đầu với |VND| được chuyển nhượng, |StockCode| và |StockCode| lần lượt đứng nhì và ba với |VND| và |VND| giao dịch.
+Trên bảng tổng sắp các loại cổ phiếu được mua bán nhiều, |StockCode| dẫn đầu với |TransactionValue| được chuyển nhượng, |StockCode| và |StockCode| lần lượt đứng nhì và ba với |VND| và |VND| giao dịch.
 Nguyên nhân chính là do khối lượng khớp lệnh cổ phiếu |StockCode| (|Company|) đạt quá thấp với chỉ |StockAmount|, trong khi khối lượng đặt mua lên tới |StockAmount|.
-Với giao dịch thỏa thuận đột biến hơn |StockAmount| ngày |Date|/|Month|, |StockCode| là mã được nhà đầu tư nước ngoài mua mạnh nhất trong tuần qua (tổng giá trị mua ròng lên tới gần |VND|).
+Với giao dịch thỏa thuận đột biến hơn |StockAmount| ngày |Date|/|Month|, |StockCode| là mã được nhà đầu tư nước ngoài mua mạnh nhất trong tuần qua (tổng giá trị mua ròng lên tới gần |TransactionValue|).
 Đến hơn |Hour|, lượng giao dịch trên |StockExchange| mới vượt qua ngưỡng |StockAmount|, trong đó, |StockCode| dẫn đầu với hơn |StockAmount| được chuyển nhượng, dư mua trần gần |StockAmount|.
-Quan sát thị trường chứng khoán từ giữa |Month| đến nay, giao dịch thỏa thuận cổ phiếu |StockCode| lên tới |StockAmount|, trị giá |VND|, chiếm khoảng |MediumPercentage| tổng khối lượng và giá trị giao dịch thỏa thuận trên |StockExchange|.
+Quan sát thị trường chứng khoán từ giữa |Month| đến nay, giao dịch thỏa thuận cổ phiếu |StockCode| lên tới |StockAmount|, trị giá |TransactionValue|, chiếm khoảng |MediumPercentage| tổng khối lượng và giá trị giao dịch thỏa thuận trên |StockExchange|.
 Sáng nay, khối lượng chào bán của |StockCode|, |StockCode| bằng khoảng |MediumPercentage| so với phiên trước, trong khi khối lượng đặt mua tăng đáng kể (|StockAmount| |StockCode| và |StockAmount|  |StockCode|).
-Sáng nay sàn giao dịch |StockExchange| có thêm sự góp mặt cổ phiếu |StockCode| của |Company|, khớp lệnh ở mức giá |VND|, khối lượng |StockAmount|.
+Sáng nay |StockExchange| có thêm sự góp mặt cổ phiếu |StockCode| của |Company|, khớp lệnh ở mức giá |StockPrice|, khối lượng |StockAmount|.
 Tuy nhiên, nhiều mã được mua bán với khối lượng lớn, trong đó |StockCode| có khối lượng giao dịch gần |StockAmount|, |StockCode| và |StockCode| cùng có khối lượng gần |StockAmount|.
 |StockCode| và |StockCode| là 2 cổ phiếu được nhà đầu tư quan tâm nhất trên |StockExchange| trong phiên sáng nay với lượng khớp đạt trên |StockAmount|.
 Trong phiên giao dịch tuần cuối cùng của |Month|, |StockCode| là mã được khối ngoại mua ròng mạnh nhất với giá trị hơn |StockAmount|, tương đương gần |StockAmount|.
 Trên |StockExchange|, |StockCode|, |StockCode|, |StockCode|, |StockCode|, |StockCode|, |StockCode| là những mã chuyển nhượng nhiều nhất, với tổng giao dịch tương đương một nửa khối lượng giao dịch trên sàn.
-Dễ nhận ra trên bảng điện tử với khoảng 10 mã bật xanh như |StockCode|, |StockCode|, |StockCode|, |StockCode|, |StockCode|... Khối lượng giao dịch đã cải thiện hơn, với 12,6 triệu chứng khoán chuyển nhượng, đạt giá trị |VND|.
-Blue-chip góp công lớn vào những phiên giao dịch sôi động |StockExchange| với tâm điểm là |StockCode|, tổng cộng |StockAmount| chuyển nhượng, bình quân mỗi phiên có đến |StockAmount| |StockCode| sang tay.
+Dễ nhận ra trên bảng điện tử với khoảng 10 mã bật xanh như |StockCode|, |StockCode|, |StockCode|, |StockCode|, |StockCode|... Khối lượng giao dịch đã cải thiện hơn, với |StockAmount| chuyển nhượng, đạt giá trị |TransactionValue|.
+Blue-chip góp công lớn vào những phiên giao dịch sôi động |StockExchange| với tâm điểm là cổ phiếu |StockCode|, tổng cộng |StockAmount| chuyển nhượng, bình quân mỗi phiên có đến |StockAmount| cổ phiếu |StockCode| sang tay.
 Riêng trong phiên cuối tuần, |StockCode| được giao dịch thỏa thuận hơn |TransactionValue|. 2 cổ phiếu được mua ròng mạnh nhất là |StockCode| và |StockCode|, giá trị |TransactionValue|, |TransactionValue|.
-Tổng khối lượng giao dịch trên |StockAmount|, tương đương giá trị gần |TransactionValue|. Sang tay nhiều nhất phiên là |StockCode| với |StockAmount|, giá tăng |VND| lên |VND|.
-Với mức giá tham chiếu |VND|/cổ phiếu cùng dải biên độ dao động khá rộng trong phiên giao dịch đầu tiên (từ |VND|/cổ phiếu đến |VND|/cổ phiếu), nhưng vẫn không có cổ phiếu |StockCode| nào được mua bán trong phiên.
+Tổng khối lượng giao dịch trên |StockAmount|, tương đương giá trị gần |TransactionValue|. Sang tay nhiều nhất phiên là |StockCode| với |StockAmount|, giá tăng |StockPrice| lên |StockPrice|.
+Với mức giá tham chiếu |StockPrice|/cổ phiếu cùng dải biên độ dao động khá rộng trong phiên giao dịch đầu tiên (từ |StockPrice|/cổ phiếu đến |StockPrice|/cổ phiếu), nhưng vẫn không có cổ phiếu |StockCode| nào được mua bán trong phiên.

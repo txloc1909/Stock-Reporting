@@ -1,11 +1,11 @@
-|StockCode|, |StockCode| và |StockCode| là có mức giao dịch trên |StockAmount| cổ phiếu.
+|StockCode|, |StockCode| và |StockCode| là ba cổ phiếu có mức giao dịch trên |StockAmount| cổ phiếu.
 Tổng cộng có |StockAmount| cổ phiếu được giao dịch thoả thuận: |StockAmount| |StockCode|, |StockAmount| |StockCode|, |StockAmount| |StockCode| và |StockAmount| |StockCode|.
 Đóng cửa phiên hôm nay, mã |StockCode| đóng cửa ở mức giá |StockPrice|, khối lượng giao dịch dẫn đầu thị trường với |StockAmount|.
 Trong đó, tổng khớp của |StockCode| lên tới hơn |StockAmount|.
 Hai bluechip |StockCode| và |StockCode| đứng liền tiếp theo khi đạt mức khớp lệnh trên dưới |TransactionValue|.
-Chỉ một ngày sau,  phiên |Date|/|Month|, |StockCode| cũng bất ngờ thỏa thuận khối lượng lên tới hơn |StockAmount|, trị giá |TransactionValue|.
+Chỉ một ngày sau phiên |Date|/|Month|, |StockCode| cũng bất ngờ thỏa thuận khối lượng lên tới hơn |StockAmount|, trị giá |TransactionValue|.
 |StockCode| và |StockCode| cùng có mức biến động |StockPriceVariation|, khối lượng khớp lệnh lần lượt là |StockAmount| và hơn |StockAmount|.
-Ngoài ra, KHA còn có |StockAmount| giao dịch thoả thuận với mức giá |StockPrice|/CP.
+Ngoài ra, |StockCode| còn có |StockAmount| giao dịch thoả thuận với mức giá |StockPrice|/CP.
 Có đến |BigPercentage| khối lượng giao dịch hôm qua thuộc về |StockCode|,|StockCode|,|StockCode|.
 |StockCode|, |StockCode| và |StockCode| là 3 chứng khoán có khối lượng giao dịch nhiều tiếp theo.
 Đó là các trường hợp của |StockCode| (giao dịch gần |StockAmount|), |StockCode| (|StockAmount|), |StockCode| (|StockAmount|), |StockCode| (|StockAmount|)
@@ -17,13 +17,13 @@ Một số mã khác cũng nới rộng thanh khoản rõ rệt, |StockCode|, |S
 Nhóm cổ phiếu bất động sản tiếp tục giao dịch lớn trong ngày hôm nay, đứng đầu là |StockCode|, |StockCode|, |StockCode|, |StockCode|.
 |StockCode| đứng thứ hai với |VND|, |StockCode| và |StockCode| cùng ở vị trí thứ ba với gần |VND|… Tổng giá trị khớp lệnh của 20 loại cổ phiếu đạt chẵn |VND|
 Một số cổ phiếu như |StockCode|, |StockCode|, |StockCode| cũng diễn biến khởi sắc và được giao dịch mạnh trong phiên.
-|StockCode| cũng là một trong 4 mã có giao dịch trên |StockAmount| trong phiên sáng nay tại |StockExchange|i, trong đó, dẫn đầu là |StockCode| với |StockAmount| được sang tay.
-4 cổ phiếu tiếp đó có khối lượng khớp đạt hơn |StockAmount| gồm |StockCode| với gần |StockAmount|, |StockCode| với gần |StockAmount|, |StockCode| với hơn |StockAmount|, |StockCode| hơn |StockAmount|.
+|StockCode| cũng là một trong 4 mã có giao dịch trên |PreviousAmount| trong phiên sáng nay tại |StockExchange|, trong đó dẫn đầu là |StockCode| với |LaterAmount| được sang tay.
+4 cổ phiếu tiếp đó có khối lượng khớp đạt hơn |PreviousAmount| gồm |StockCode| với gần |LaterAmount|, |StockCode| với gần |LaterAmount|, |StockCode| với hơn |LaterAmount|, |StockCode| hơn |LaterAmount|.
 Tuy chưa công bố chính thức kết quả giao dịch, nhưng theo thống kê, từ |Date|/|Month| đến phiên giao dịch |Date|/|Month|, đã có |StockAmount| |StockCode| được chuyển nhượng trong phiên giao dịch thỏa thuận, với tổng giá trị |VND|.
 Trên bảng tổng sắp, |StockCode| có phiên thứ hai liên tiếp đứng đầu khi khớp lệnh được gần |VND|, chiếm |MediumPercentage| tổng giá trị khớp lệnh thị trường tập trung.
 Trong phương thức giao dịch thoả thuận, 100000 cổ phiếu được chuyển nhượng (|StockCode| 30.000, |StockCode| 10.000, |StockCode| 10.000, |StockCode| 20.000, |StockCode| 20.000, |StockCode| 10.000).
-|StockCode|, |StockCode| và |StockCode| chiếm 3 vị trí kế tiếp với mức giao dịch |PreviousAmount|-|LaterAmount| cổ phiếu.
+|StockCode|, |StockCode| và |StockCode| chiếm 3 vị trí kế tiếp với mức giao dịch |PreviousAmount| - |LaterAmount| cổ phiếu.
 Có 3 loại cổ phiếu đóng băng trên thị trường là |StockCode|, |StockCode| và |StockCode|.
-Còn hiện tại, cổ đông sở hữu trên |SmallPercentage|% số CP giao dịch của |StockCode| vẫn được giao dịch bình thường, nhưng mọi lệnh mua bán giao dịch của cổ đông này đều nằm trong diện kiểm soát của Trung tâm giao dịch chứng khoán TP  	
-Giao dịch các cổ phiếu của |Country| trên 2 sở giao dịch chứng khoán lớn kể trên đồng nghĩa với việc có thể định đoạt chỉ số Dow từ 7h00 GMT tại châu Âu, trước khi thị trường chứng khoán |Country| mở cửa hơn |Hour| giờ đồng hồ.
+Còn hiện tại, cổ đông sở hữu trên |SmallPercentage| số CP giao dịch của |StockCode| vẫn được giao dịch bình thường, nhưng mọi lệnh mua bán giao dịch của cổ đông này đều nằm trong diện kiểm soát của Trung tâm giao dịch chứng khoán TP.  	
+Giao dịch các cổ phiếu của |Country| trên 2 sở giao dịch chứng khoán lớn kể trên đồng nghĩa với việc có thể định đoạt chỉ số Dow từ |Hour| GMT tại châu Âu, trước khi thị trường chứng khoán |Country| mở cửa hơn |Hour| giờ đồng hồ.
 Theo ông |President|, Tổng giám đốc SBS, số lượng tài khoản giao dịch chứng khoán mở tại SBS trong thời gian qua không biến động nhiều, tuy nhiên, số lượng lưu ký và giao dịch giảm mạnh, nhất là sau khi bị kiểm soát đặc biệt.

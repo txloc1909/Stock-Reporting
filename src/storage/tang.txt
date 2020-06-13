@@ -1,4 +1,4 @@
-Phiên này lượng cung, cầu |StockCode| tiếp tục tăng mạnh, đẩy giá cổ phiếu tăng |StockPriceVariation|, khớp lệnh đạt |StockPrice|, khối lượng |StockAmount|.
+Phiên này lượng cung, cầu của cổ phiếu |StockCode| tiếp tục tăng mạnh, đẩy giá cổ phiếu tăng |StockPriceVariation|, khớp lệnh đạt giá trị |StockPrice|, khối lượng |StockAmount| cổ phiếu.
 Trong đó, đáng chú ý |StockCode| tăng |StockPriceVariation| với |StockAmount| được giao dịch.
 Trong nhóm cổ phiếu chủ chốt có |StockCode| tăng giá |StockPriceVariation| lên |StockPrice|, khối lượng khớp lệnh |StockAmount|, |StockCode| tiếp tục đứng yên ở |StockPrice| so với phiên hôm qua, |StockCode| giảm |StockPriceVariation|.
 Cổ phiếu 'hiếm' |StockCode| lấy lại phong độ, dẫn đầu toàn sàn ở phiên 1 nhưng kết thúc phiên tạm chấp nhận ở vị trí thứ 2 với mức tăng |StockPriceVariation|, khớp giá |StockPrice|.
@@ -67,10 +67,10 @@ Trong đó |StockCode| có tốc độ tăng mạnh nhất (|StockPriceVariation
 Cổ phiếu tăng giá nhất phiên là |StockCode| cũng chỉ nhích |StockPriceVariation|, khớp giá |StockPrice| với |StockAmount| khớp lệnh.
 Khối lượng giao dịch |StockCode| đạt gần |StockAmount|, nâng tổng khối lượng giao dịch khớp lệnh 3 phiên gần đây lên |StockAmount|.
 Cổ phiếu |StockCode| kết phiên giao dịch có giá |StockPrice|, khối lượng giao dịch gần |StockAmount|, vẫn lớn nhất rổ VN30.
-Khớp lệnh nhiều nhất phiên sáng là cổ phiếu |StockCode| với gần |StockAmount| được chuyển nhượng, đứng giá ở |StockPrice|.
+Khớp lệnh nhiều nhất phiên sáng nay là cổ phiếu |StockCode| với gần |StockAmount| được chuyển nhượng, đứng giá ở |StockPrice|.
 SHB sang tay trên |StockAmount|, giá tăng |StockPriceVariation|, lên |StockPrice|, |StockCode| giao dịch hơn |StockAmount|, giá tăng |StockPriceVariation|, lên |StockPrice|.
 Chuyển nhượng mạnh nhất phiên sáng thông qua khớp lệnh là |StockCode| với hơn |StockAmount|, giá tăng |StockPriceVariation|, lên |StockPrice|.
-|StockCode| tăng thêm |StockPriceVariation|, khớp lệnh hơn |StockAmount| còn |StockCode| lên hẳn |StockPriceVariation|, khối lượng giao dịch hơn |StockAmount|.
+Giá trị cổ phiếu |StockCode| tăng thêm |StockPriceVariation|, khớp lệnh hơn |StockAmount| còn giá cổ phiếu |StockCode| lên hẳn |StockPriceVariation|, khối lượng giao dịch hơn |StockAmount|.
 Trong đó, |StockCode| tăng |StockPriceVariation|, khớp lệnh hơn |StockAmount| còn PVT lên |StockPriceVariation| với khối lượng giao dịch hơn |StockAmount|.
 Còn |StockCode| cũng tăng |StockPriceVariation|, khớp lệnh hơn |StockAmount|, ghi nhận mức cao nhất kể từ hôm |Date|/|Month|.
 Tiếp sau đó |StockCode|, |StockCode|, |StockCode| đều có mức tăng |ScoreVariation| điểm.
@@ -107,9 +107,9 @@ Lúc |Hour|, |StockExchange| thậm chí còn chạm đỉnh của phiên sáng,
 Sang phiên chiều, chỉ số |StockExchange| điều chỉnh nhẹ so với đầu ngày nhưng nhờ |StockCode|, |StockCode|, |StockCode|, |StockCode|, |StockCode| lần lượt cộng |StockPriceVariation| nên thị trường giữ vững sắc xanh.41810: Mở cửa phiên giao dịch ngày |Date|/|Month|, nhiều cổ phiếu vốn hóa lớn như |StockCode|, |StockCode|, |StockCode|, |StockCode| tiếp tục tăng giá làm trụ đỡ giúp |StockExchange| phủ sắc xanh.
 Bước sang khớp lệnh liên tục, |Index| bất ngờ quay đầu tăng điểm nhẹ khi |StockCode| tiếp tục tăng trần, |StockCode|, |StockCode|… cũng bật xanh trở lại với mức tăng |StockPriceVariation|.
 Đến cuối phiên, một số blue-chip khác như |StockCode|, |StockCode|, |StockCode|, |StockCode|, |StockCode|,… cũng tăng trần giúp |Index| chốt phiên ở |Score|, tăng |ScoreVariation|.
-Dù 2 blue-chip trên sàn Hà Nội là VND và SHN đều tăng mạnh điểm nhưng một nửa số cổ phiếu giảm giá sáng nay kéo HNX-Index mất 0,36 điểm, chốt phiên tại 61,49 điểm.
+Dù 2 blue-chip trên sàn Hà Nội là |StockCode| và |StockCode| đều tăng mạnh điểm nhưng một nửa số cổ phiếu giảm giá sáng nay kéo |Index| mất |ScoreVariation|, chốt phiên tại |Score|.
 Mở cửa đầu ngày với sắc xanh, |Index| chốt giao dịch đợt 1 tăng nhẹ |ScoreVariation| khi một số mã cổ phiếu lớn đều giao dịch trên mốc tham chiếu như |StockCode|, |StockCode| và |StockCode|.
-Nhóm cổ phiếu vốn hóa lớn tại sàn TP HCM gồm: GAS, BVH, VCB, VIC cùng tăng nhẹ 100-500 đồng vào cuối phiên giúp Vn-Index giữ vững ngưỡng 431,76 điểm, tăng 0,68 điểm.
+Nhóm cổ phiếu vốn hóa lớn tại |StockExchange| gồm: |StockCode|, |StockCode|, |StockCode|, |StockCode| cùng tăng nhẹ |StockPriceVariation|-|StockPriceVariation| vào cuối phiên giúp |Index| giữ vững ngưỡng |Score|, tăng |ScoreVariation|.
 Nhờ hiệu ứng tăng giá mạnh đầu ngày, nên cuối phiên chiều, rổ này chỉ có |StockCode| giảm |StockPriceVariation|, |StockCode|, |StockCode| đi ngang còn |StockCode|, |StockCode| nhích nhẹ |StockPriceVariation|.
 Đà tăng đột ngột dịu dần vào phiên chiều nhưng nhờ |StockCode|, |StockCode|, |StockCode|, |StockCode|, |StockCode|, |StockCode| lần lượt tăng |StockPriceVariation|-|StockPriceVariation| giúp thị trường có phiên tăng điểm thứ sáu liên tiếp.
 Mã |StockCode| đã có sự đảo chiều khá ngoạn mục trong những phút cuối ngày, tăng trần lên |Score|, cộng thêm |ScoreVariation| trên mỗi cổ phiếu.
@@ -140,12 +140,12 @@ Trong đó  |StockCode|, |StockCode|, |StockCode| đều là những mã tăng �
 Trong những mã lớn, chỉ có |StockCode|, |StockCode|, |StockCode| và |StockCode| tăng điểm nhẹ.
 Không chỉ đạt thanh khoản cao mà |StockCode|, |StockCode|, |StockCode|, |StockCode| đều tăng điểm.
 Nhóm ngân hàng chỉ có STB xanh điểm, tăng |VND| nhưng lượng giao dịch chỉ khoảng |StockAmount|.
-|StockCode|, |StockCode| cũng được thêm vào rổ FTSE Vietnam All-share Index, hai mã này lần lượt tăng |VND|-|VND|.
-Trên thị trường chỉ một vài mã lội ngược dòng, |StockCode| tăng tới |VND| lên |VND| một cổ phiếu.
-Hiện tại, |Company| có tỷ lệ vốn hóa lớn nhất |StockExchange| trong khi STB đứng đầu |StockExchange|.
-Cổ phiếu của |Company| (mã |StockCode| ) chào sàn sáng qua, hôm nay tăng kịch trần |VND|.
+|StockCode|, |StockCode| cũng được thêm vào rổ FTSE Vietnam All-share Index, hai mã này lần lượt tăng |StockPriceVariation|-|StockPriceVariation|.
+Trên thị trường chỉ một vài mã lội ngược dòng, |StockCode| tăng tới |StockPriceVariation| lên |StockPrice| một cổ phiếu.
+Hiện tại, |Company| có tỷ lệ vốn hóa lớn nhất |StockExchange| trong khi |StockCode| đứng đầu |StockExchange|.
+Cổ phiếu của |Company| (mã |StockCode| ) chào sàn sáng qua, hôm nay tăng kịch trần |StockPrice|.
 Phần lớn cổ phiếu tài chính trên |StockExchange| giữ được đà tăng nhẹ, riêng blue-chip |Company| mất |Score|.
-Trong khi |Company| giảm giá |VND| tại |StockExchange| thì trên |StockExchange|, |Company| lại tăng giá |VND|.
+Trong khi |Company| giảm giá |StockPrice| tại |StockExchange| thì trên |StockExchange|, |Company| lại tăng giá |StockPrice|.
 Tại sàn Hà Nội, ACB và SHB đi ngược chiều nhau, lần lượt tăng và giảm 100 đồng một cổ phiếu.
 Trong danh sách những mã giao dịch nhiều nhất sàn, |StockCode| là cổ phiếu hiếm hoi tăng giá và vươn lên kịch trần.
 Những mã có giao dịch sôi động nhất sàn như |StockCode|, |StockCode|, |StockCode|… tăng hết biên độ giá.
@@ -153,20 +153,20 @@ Nhóm tài nguyên là điểm sáng hiếm hoi trên |StockExchange| với |Sto
 Trên |StockExchange|, các mã |StockCode|, |StockCode|, |StockCode|, |StockCode|… đều có mức tăng khá.
 Trong |StockAmount| vốn hóa lớn nhất |StockExchange|, chỉ 3 mã tăng điểm nhẹ (|StockCode|, |StockCode|, |StockCode|).
 Mức tăng cao nhất trong nhóm 20 cổ phiếu vốn hóa lớn nhất |StockExchange| cũng chỉ |Score| (|StockCode|, |StockCode|, |StockCode|).
-2 trụ cột của |StockExchange| là |StockCode| và |StockCode| tăng giá |VND|-|VND| trong khi |StockCode| cũng tăng |VND|.
+2 trụ cột của |StockExchange| là |StockCode| và |StockCode| tăng giá |StockPriceVariation|-|StockPriceVariation| trong khi |StockCode| cũng tăng |StockPriceVariation|.
 Chỉ có |StockCode|, |StockCode|, |StockCode| tăng nhẹ |ScoreVariation|, trong nhóm 20 mã có vốn hóa lớn tại HOSE.
-Trụ đỡ chính vẫn gồm những cổ phiếu vốn hóa lớn như |StockCode|, |StockCode|, |StockCode| với mức tăng |VND|-|VND|.
-Chỉ duy nhất một bluechip góp mặt trong nhóm này là |StockCode|, tăng |ScoreVariation|, lên mức |VND|.
+Trụ đỡ chính vẫn gồm những cổ phiếu vốn hóa lớn như |StockCode|, |StockCode|, |StockCode| với mức tăng |StockPriceVariation|-|StockPriceVariation|.
+Chỉ duy nhất một bluechip góp mặt trong nhóm này là |StockCode|, tăng |ScoreVariation|, lên mức |StockPrice|.
 Hai mã cổ phiếu ngân hàng khác cũng đỏ điểm trong phiên sáng nay là |StockCode|, |StockCode|.
-Lúc |Hour|, |StockCode| là mã tài chính tăng mạnh nhất rổ ngân hàng, cộng |VND| một cổ phiếu.
-Còn lại |StockCode| và |StockCode| cũng lên |VND| và là những mã tăng mạnh nhất sáng nay.
-4 mã giao dịch nhiều nhất sàn tiếp theo đều tăng giá, trong đó, |StockCode| tăng trần, lên |VND| mỗi cổ phiếu.
-Ở chiều ngược lại, |StockCode|, |StockCode| là hai cổ phiếu hiếm hoi tăng giá trong nhóm blue-chip với |VND|
+Lúc |Hour|, |StockCode| là mã tài chính tăng mạnh nhất rổ ngân hàng, cộng |StockPriceVariation| một cổ phiếu.
+Còn lại |StockCode| và |StockCode| cũng lên |StockPriceVariation| và là những mã tăng mạnh nhất sáng nay.
+4 mã giao dịch nhiều nhất sàn tiếp theo đều tăng giá, trong đó, |StockCode| tăng trần, lên |StockPriceVariation| mỗi cổ phiếu.
+Ở chiều ngược lại, |StockCode| và |StockCode| là hai cổ phiếu hiếm hoi tăng giá trong nhóm blue-chip với |StockPriceVariation|
 Trong nhóm |StockCode|, |StockCode| và |StockCode| là hai mã giao dịch tích cực nhất với biên độ tăng |SmallPercentage|.
-Điểm sáng của thị trường chính là |StockCode| của |Company|, tăng |ScoreVariation|, chốt giá |VND|.
-Hòa cùng xu thế chung, |StockCode| và |StockCode| cũng được giao dịch sôi động và tăng |VND|-|VND| trên mỗi cổ phiếu.
+Điểm sáng của thị trường chính là |StockCode| của |Company|, tăng |ScoreVariation|, chốt giá |StockPrice|.
+Hòa cùng xu thế chung, |StockCode| và |StockCode| cũng được giao dịch sôi động và tăng |StockPriceVariation|-|StockPriceVariation| trên mỗi cổ phiếu.
 Nhóm ngân hàng có |StockCode| và |StockCode| cùng tăng, nhưng sáng nay giao dịch của |StockCode| chỉ khoảng |StockAmount| cổ phiếu.
-Nhóm dầu khí có |StockCode|, |StockCode|, |StockCode|, |StockCode| và |StockCode| cũng tăng từ |VND| cho đến kịch trần.
+Nhóm dầu khí có |StockCode|, |StockCode|, |StockCode|, |StockCode| và |StockCode| cũng tăng từ |StockPrice| cho đến kịch trần.
 Hai cổ phiếu hiếm hoi giữ được sắc xanh là |StockCode| và |StockCode| nhưng biên độ tăng chỉ đạt |SmallPercentage| và |SmallPercentage|
 Đến hơn |Hour|, lượng giao dịch trên |StockExchange| mới vượt qua ngưỡng |StockAmount|, trong đó, |StockCode| dẫn đầu với hơn |StockAmount| được chuyển nhượng, dư mua trần gần |StockAmount|.
 8 mã |StockCode|, |StockCode|, |StockCode|, |StockCode|, |StockCode|, |StockCode|, |StockCode| và |StockCode| có lượng giao dịch vượt trên |StockAmount| (riêng |StockCode|, lượng khớp vượt trên |StockAmount|).
@@ -174,49 +174,48 @@ Trong ngày |Date|/|Month|, khối lượng giao dịch của |StockCode| tăng 
 |StockCode| là cổ phiếu có tính thanh khoản cao nhất với |StockAmount| được chuyển nhượng; với khối lượng khớp lệnh |StockAmount|; tiếp theo lần lượt là |StockCode|, |StockCode|, |StockCode|.
 Trong đó, vị trí quán quân thuộc về cổ phiếu |StockCode| với khối lượng khớp lệnh đạt |StockAmount|, tăng |MediumPercentage| so với tuần trước và chiếm |SmallPercentage| khối lượng giao dịch toàn thị trường.
 Trong đó, phương thức thỏa thuận chiếm tới |TransactionValue|, ứng với |StockAmount|, chủ yếu là giao dịch của |StockCode|.
-Vừa phiên trước, với mức tăng |VND|, |StockCode| đã đứng đầu bảng trong số cổ phiếu lên điểm, nhưng hôm nay, cổ phiếu này đã mất đúng ngần ấy điểm, trở về mức giá |VND|/cổ phiếu.
-Trong danh sách cổ phiếu tăng giá mạnh nhất với tỷ lệ |SmallPercentage|, đáng chú ý có cổ phiếu |StockCode| của |Company|, lên |VND|, sau chuỗi giảm và đứng giá kéo dài kể từ khi bị kiểm soát tại |StockExchange| ngày |Date|/|Month|.
-Nhờ đó, từ khi chào sàn với mức giá khoảng |VND|/cổ phiếu,  sau đó |StockCode| vọt lên |VND|/cổ phiếu, tức đã tăng giá hơn 3 lần trong khi tình hình kinh doanh không có gì là đặc sắc.
+Vừa phiên trước, với mức tăng |StockPriceVariation|, |StockCode| đã đứng đầu bảng trong số cổ phiếu lên điểm, nhưng hôm nay, cổ phiếu này đã mất đúng ngần ấy điểm, trở về mức giá |StockPrice|/cổ phiếu.
+Trong danh sách cổ phiếu tăng giá mạnh nhất với tỷ lệ |SmallPercentage|, đáng chú ý có cổ phiếu |StockCode| của |Company|, lên |StockPrice|, sau chuỗi giảm và đứng giá kéo dài kể từ khi bị kiểm soát tại |StockExchange| ngày |Date|/|Month|.
+Nhờ đó, từ khi chào sàn với mức giá khoảng |StockPrice|/cổ phiếu,  sau đó |StockCode| vọt lên |StockPrice|/cổ phiếu, tức đã tăng giá hơn 3 lần trong khi tình hình kinh doanh không có gì là đặc sắc.
 Với khối lượng giao dịch lên tới |StockAmount| – cao nhất trong vòng 20 phiên trở lại đây, |StockCode| đã leo lên vị trí đứng đầu về khối lượng giao dịch khi chiếm tỷ trọng tới |MediumPercentage| toàn thị trường.
-Hôm qua cũng là ngày thứ |Date| liên tiếp, |StockCode| tiếp tục hồi phục giá khi +|VND|... Phiên này, |StockCode| đã ngừng chuỗi tăng và giảm |VND|, cùng với đó còn có các cổ phiếu |StockCode| và |StockCode|.
+Hôm qua cũng là ngày thứ |Date| liên tiếp, |StockCode| tiếp tục hồi phục giá khi +|StockPriceVariation|... Phiên này, |StockCode| đã ngừng chuỗi tăng và giảm |StockPriceVariation|, cùng với đó còn có các cổ phiếu |StockCode| và |StockCode|.
 Trong ngày |Date|/|Month|, giá |StockCode| vẫn tăng nhẹ (|Stockprice|) với lượng giao dịch lên tới hơn |StockAmount| trong khi các penny đầu P (họ dầu khí) khác đã tụt dốc từ |Date|/|Month| hoặc vài phiên trước đó.
 Hai tuần qua, cổ phiếu |StockCode| của |Company| trở thành cổ phiếu “có sóng” lớn nhất trên sàn, khi tăng trần 9 phiên liên tiếp sau quãng thời gian giảm sàn 15 phiên liên tục trước đó.
-Tương tự, cổ phiếu |StockCode| của |Company| cũng tăng giá kịch trần, lên |VND|/cổ phiếu trong phiên ngày |Date|/|Month|, sau khi nhiều phiên tăng giá kể từ đầu tháng |Month|.
+Tương tự, cổ phiếu |StockCode| của |Company| cũng tăng giá kịch trần, lên |StockPrice|/cổ phiếu trong phiên ngày |Date|/|Month|, sau khi nhiều phiên tăng giá kể từ đầu tháng |Month|.
 Cụ thể, sau chuỗi thăng hoa vào những ngày cuối tháng 5 và đầu tháng 6 với hàng loạt giao dịch tăng trần, cổ phiếu |StockCode| đã trải qua gần một tháng không có phiên nào tăng giá.
-Một trong những gia đình chứng khoán giàu lên nhanh nhất trong năm qua là vợ chồng chủ tịch |President| tiếp tục thắng đậm trong tuần này khi cổ phiếu |StockCode| tăng |VND| trong 2 phiên cuối tuần.
+Một trong những gia đình chứng khoán giàu lên nhanh nhất trong năm qua là vợ chồng chủ tịch |President| tiếp tục thắng đậm trong tuần này khi cổ phiếu |StockCode| tăng |StockPriceVariation| trong 2 phiên cuối tuần.
 Sau gần nửa năm dao động quanh ngưỡng 6.700 đồng, sóng cổ phiếu |Company| được hình thành vào đầu tháng một và giữ vững đà tăng trong suốt 2 tháng sau đó.
-Phiên giao dịch đầu tiên sau khi lên sàn, cổ phiếu |StockCode| đã tăng gần hết biên độ cho phép (gần |Stockprice|) từ |VND| lên |VND|- đây cũng là mức giá cao nhất cổ phiếu này xác lập.
+Phiên giao dịch đầu tiên sau khi lên sàn, cổ phiếu |StockCode| đã tăng gần hết biên độ cho phép (gần |Stockprice|) từ |StockPrice| lên |StockPrice|- đây cũng là mức giá cao nhất cổ phiếu này xác lập.
 Mã cổ phiếu còn lại của đại gia phố núi là |Company|) cũng trải qua một tuần thăng hoa với năm phiên tăng điểm liên tiếp, trong đó có hai phiên tăng trần hơn |SmallPercentage|.
-Đây là giao dịch thoả thuận duy nhất trong vòng một tháng qua của |StockCode|, được thực hiện sau ba phiên tăng điểm liên tiếp nhưng vẫn thấp hơn giá đóng cửa phiên chiều qua |VND| mỗi cổ phiếu.
-Ngay cả |Company|, sau khi công bố kế hoạch nâng vốn điều lệ lên gấp 4 lần và lên |StockExchange| vào cuối năm nay, trong 2 tuần giá chỉ nhích từ |VND| lên |VND|.
-Đứng thứ hai trong bảng tổng sắp là cổ phiếu |StockCode| của |Company|, đóng cửa phiên cuối tuần ở mức |VND|, tăng |VND|(tương đương |SmallPercentage|) so với phiên đóng cửa cuối tuần trước.
+Đây là giao dịch thoả thuận duy nhất trong vòng một tháng qua của |StockCode|, được thực hiện sau ba phiên tăng điểm liên tiếp nhưng vẫn thấp hơn giá đóng cửa phiên chiều qua |StockPrice| mỗi cổ phiếu.
+Ngay cả |Company|, sau khi công bố kế hoạch nâng vốn điều lệ lên gấp 4 lần và lên |StockExchange| vào cuối năm nay, trong 2 tuần giá chỉ nhích từ |StockPrice| lên |StockPrice|.
+Đứng thứ hai trong bảng tổng sắp là cổ phiếu |StockCode| của |Company|, đóng cửa phiên cuối tuần ở mức |StockPrice|, tăng |StockPriceVariation|(tương đương |SmallPercentage|) so với phiên đóng cửa cuối tuần trước.
 Trong tháng |Month|-|Month|/|Year|, |StockCode| tăng 3,5 lần, |StockCode| tăng hơn 3 lần, |StockCode| tăng 5 lần, |StockCode| tăng hơn 5 lần, |StockCode| tăng gần 4 lần trong tháng 5-6 và tiếp đó là gần gấp đôi trong tháng |Month|/|Year|.
-Giá cổ phiếu |StockCode| của |Company| đến phiên giao dịch gần nhất đạt |VND|, tăng hơn |SmallPercentage| so với đầu năm |Year| và tăng hơn |SmallPercentage| so với phiên giao dịch trước Tết Nguyên đán.
+Giá cổ phiếu |StockCode| của |Company| đến phiên giao dịch gần nhất đạt |StockPrice|, tăng hơn |SmallPercentage| so với đầu năm |Year| và tăng hơn |SmallPercentage| so với phiên giao dịch trước Tết Nguyên đán.
 Như vậy, tính từ |Date| tuần trước (khi |StockCode| tụt xuống mức thấp kỷ lục trong 4 năm) cho đến phiên hôm qua, |StockCode| đã lấy lại |Score| điểm, một cú hích tuyệt vời để vượt lên ngưỡng |Score|.
-Theo đó, trước khi tăng đột biết như vừa qua, |StockCode| đã từng bị chìm vào một giai đoạn giảm giá suốt từ giữa tháng |Month|, từ mốc khoảng |VND|/cổ phiếu, xuống đáy |VND|/cổ phiếu vào đầu tháng |Month|.
+Theo đó, trước khi tăng đột biết như vừa qua, |StockCode| đã từng bị chìm vào một giai đoạn giảm giá suốt từ giữa tháng |Month|, từ mốc khoảng |StockPrice|/cổ phiếu, xuống đáy |StockPrice|/cổ phiếu vào đầu tháng |Month|.
 So với thời điểm |Index| đạt đỉnh |Score| vào tháng |Month|/|Year|, chỉ số chứng khoán chung đã giảm tới |BigPercentage| , nhưng giá cổ phiếu |StockCode| lại tăng gấp đôi, chưa tính đến việc trả cổ tức đều đặn |SmallPercentage| mệnh giá/năm.
-Đơn cử, cổ phiếu |StockCode| trong 2 tháng qua đã giảm từ mốc trên |VND|/cổ phiếu xuống còn trên |VND|/cổ phiếu; cổ phiếu |StockCode| giảm từ mốc |VND|/cổ phiếu ở thời điểm giữa tháng |Month| xuống còn khoảng |VND|/cổ phiếu.
+Đơn cử, cổ phiếu |StockCode| trong 2 tháng qua đã giảm từ mốc trên |StockPrice|/cổ phiếu xuống còn trên |StockPrice|/cổ phiếu; cổ phiếu |StockCode| giảm từ mốc |StockPrice|/cổ phiếu ở thời điểm giữa tháng |Month| xuống còn khoảng |StockPrice|/cổ phiếu.
 Thu nhập lãi thuần lũy kế từ đầu năm của |StockCode| đạt |TransactionValue| tỷ đồng, trong đó lãi thuần từ hoạt động kinh doanh ngoại hối chỉ đạt khoảng |TransactionValue| tỷ đồng.
-Cụ thể, kế hoạch của |StockCode| doanh thu |TransactionValue| tỷ đồng, lợi nhuận sau thuế |TransactionValue| tỷ đồng; |StockCode| doanh thu |TransactionValue| tỷ đồng, lợi nhuận sau thuế |TransactionValue| tỷ đồng; |StockCode| doanh thu |TransactionValue| tỷ đồng, lợi nhuận trước thuế |TransactionValue| tỷ đồng…
-Tại công ty cổ phần |Compamy| (|StockCode|), lợi nhuận trước thuế của |StockCode| tăng từ ||TransactionValue| tỷ đồng lên |TransactionValue| tỷ đồng sau soát xét dù doanh thu của |StockCode| điều chỉnh giảm |transactionValue| tỷ đồng.
-Lũy kế 6 tháng đầu năm, nhóm công ty |StockCode| có tổng doanh thu thuần là |TransactionValue| tỷ đồng, vượt gần |MediumPercentage|% so với cùng kỳ |Year|, đạt |MediumPercentage|% kế hoạch |Year|.
-Với mức lợi nhuận này, lãi cơ bản trên mỗi cổ phiếu |StockCode| đạt |StockPrice| đồng, tăng |MediumPercentage|% so với cùng kỳ năm trước và đạt |MediumPercentage|% kế hoạch cả năm.
-Trong lĩnh vực tích hợp hệ thống, Công ty hệ thống thông tin |Company| đạt doanh số gần |TransactionValue| tỷ, lợi nhuận trước thuế trên |TransactionValue| tỷ đồng, tăng |MediumPercentage|% so với cùng kỳ.
-Trước đó, lợi nhuận trước thuế của |StockCode| trong 6 tháng đầu năm đạt gần |BigPercentage|% kế hoạch cả năm, Stockcode| đạt |BigPercentage|% kế hoạch lợi nhuận sau thuế đã điều chỉnh.
-Trước đó, lợi nhuận trước thuế của |StockCode| trong 6 tháng đầu năm đạt gần |BigPercentage|% kế hoạch cả năm, Stockcode| đạt |BigPercentage|% kế hoạch lợi nhuận sau thuế đã điều chỉnh.
-Theo báo cáo hợp nhất, quý III, lợi nhuận trước thuế của |StockCode| đạt  |TransactionValue| tỷ đồng, gấp 5 lần cùng kỳ |Year|; 9 tháng, đạt |TransactionValue| tỷ đồng, tăng |BigPercentage|% cùng kỳ |Year|, hoàn thành |BigPercentage|% kế hoạch năm.
+Cụ thể, kế hoạch của |StockCode| doanh thu |TransactionValue| tỷ đồng, lợi nhuận sau thuế |TransactionValue|; |StockCode| doanh thu |TransactionValue|, lợi nhuận sau thuế |TransactionValue|; |StockCode| doanh thu |TransactionValue|, lợi nhuận trước thuế |TransactionValue|.
+Tại |Company| (với mã giao dịch |StockCode|), lợi nhuận trước thuế của |StockCode| tăng từ ||TransactionValue| lên |TransactionValue| sau soát xét dù doanh thu của |StockCode| điều chỉnh giảm |TransactionValue|.
+Lũy kế 6 tháng đầu năm, nhóm công ty |StockCode| có tổng doanh thu thuần là |TransactionValue| tỷ đồng, vượt gần |MediumPercentage| so với cùng kỳ |Year|, đạt |MediumPercentage|% kế hoạch |Year|.
+Với mức lợi nhuận này, lãi cơ bản trên mỗi cổ phiếu |StockCode| đạt |StockPrice| đồng, tăng |MediumPercentage| so với cùng kỳ năm trước và đạt |MediumPercentage| kế hoạch cả năm.
+Trong lĩnh vực tích hợp hệ thống, Công ty hệ thống thông tin |Company| đạt doanh số gần |TransactionValue| tỷ, lợi nhuận trước thuế trên |TransactionValue| tỷ đồng, tăng |MediumPercentage| so với cùng kỳ.
+Trước đó, lợi nhuận trước thuế của |StockCode| trong 6 tháng đầu năm đạt gần |BigPercentage| kế hoạch cả năm, Stockcode| đạt |BigPercentage| kế hoạch lợi nhuận sau thuế đã điều chỉnh.
+Trước đó, lợi nhuận trước thuế của |StockCode| trong 6 tháng đầu năm đạt gần |BigPercentage| kế hoạch cả năm, Stockcode| đạt |BigPercentage| kế hoạch lợi nhuận sau thuế đã điều chỉnh.
+Theo báo cáo hợp nhất, quý III, lợi nhuận trước thuế của |StockCode| đạt  |TransactionValue| tỷ đồng, gấp 5 lần cùng kỳ |Year|; 9 tháng, đạt |TransactionValue| tỷ đồng, tăng |BigPercentage| cùng kỳ |Year|, hoàn thành |BigPercentage| kế hoạch năm.
 Còn Công ty cổ phần |Company| cũng có lãi sau thuế tăng mạnh |TransactionValue| tỷ đồng so với cùng kỳ năm trước, đạt |TransactionValue| tỷ đồng trong quý III.
-Quý II, sản lượng tiêu thụ xi măng trong nước gấp đôi so với quý I và 2 tháng đầu quý III, tăng |MediumPercentage|% so với cùng kỳ năm trước.
-Lợi nhuận tháng |Month| của |StockCode| đạt trên |TransactionValue| tỷ đồng, nâng tổng lợi nhuận 4 tháng đầu năm đạt trên |transactionValue| tỷ đồng, tăng |MediumPercentage|% so với 4 tháng đầu năm ngoái.
-Thông tin cổ tức |StockCode| lên tới |MediumPercentage|% đã khiến nhà đầu tư ào ào đặt lệnh mua vào, đẩy |StockCode| lần đầu tiên dẫn đầu bảng tổng sắp (thay thế |StockCode|).
+Quý II, sản lượng tiêu thụ xi măng trong nước gấp đôi so với quý I và 2 tháng đầu quý III, tăng |MediumPercentage| so với cùng kỳ năm trước.
+Lợi nhuận tháng |Month| của |StockCode| đạt trên |TransactionValue| tỷ đồng, nâng tổng lợi nhuận 4 tháng đầu năm đạt trên |transactionValue| tỷ đồng, tăng |MediumPercentage| so với 4 tháng đầu năm ngoái.
+Thông tin cổ tức |StockCode| lên tới |MediumPercentage| đã khiến nhà đầu tư ào ào đặt lệnh mua vào, đẩy |StockCode| lần đầu tiên dẫn đầu bảng tổng sắp (thay thế |StockCode|).
 Đứng đầu bảng trên là cổ phiếu |StockCode| của |Company| với biến động – |StockPrice| sau khi điều chỉnh giá vào ngày giao dịch không hưởng quyền |Date|/|Month|.
 Tranh thủ cơ hội trước thời gian chia cổ phiếu thưởng, nhà đầu tư tiếp tục vét |StockCode| khiến giá mã chứng khoán này tiếp tục tăng |StockPrizeVariation|, khớp lệnh tại |StockPrice|.
 Sáng nay |StockCode| lên giá, có lúc tăng hết biên độ khi đón thông tin Công ty chứng khoán Sài Gòn sẽ phát hành hơn |Score| triệu cổ phiếu cho cán bộ nhân viên.
 Sau đợt điều chỉnh giá do chốt quyền nhận cổ tức bằng tiền và nhận cổ phiếu thưởng, hôm nay |StockCode| tìm lại đà tăng |StockPriceVariation| một cổ phiếu.
 |StockCode|, |StockCode| và |StockCode| cùng chia sẻ việc lên giá với |StockCode|.
 Trên thị trường |StockCode| tăng giá |StockPriceVariation| đồng, còn |StockCode| và |StockCode| đứng giá.
-Các cổ phiếu |StockCode|, |StockCode|, |StockCode|, |StockCode|… cũng tăng giá |StockPriceVariation|-|StockPriceVariation| đồng.
-Chỉ có 4 cổ phiếu nhỏ |StockCode|, |StockCode|, |StockCode| và |StockCode| tăng |StockPriceVariation| đồng.
+Các cổ phiếu |StockCode|, |StockCode|, |StockCode|, |StockCode|… cũng tăng giá |StockPriceVariation|-|StockPriceVariation|.
+Chỉ có 4 cổ phiếu nhỏ |StockCode|, |StockCode|, |StockCode| và |StockCode| đã tăng |StockPriceVariation|.
 Chỉ có 3 cổ phiếu tăng giá nhẹ |StockPriceVariation|-|StockPriceVariation| đồng là |StockCode|, |StockCode| và |StockCode|.
-3 cổ phiếu |StockCode|, |StockCode| và |StockCode| đều có mức tăng giá |StockPriceVariation| đồng.
-Tuy nhiên, cổ phiếu này nhanh chóng bật tăng trần với lượng mua bán cả triệu đơn vị bất chấp thông tin Cơ quan điều tra tiến hành khởi tố vụ án về gian lận trong kinh doanh và che giấu thông tin trên thị trường chứng khoán tại SBS.
+Ba cổ phiếu |StockCode|, |StockCode| và |StockCode| đều có mức tăng giá |StockPriceVariation| đồng.
