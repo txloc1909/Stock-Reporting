@@ -22,7 +22,11 @@ public class Sentence {
         generator = new DataGenerator();
         while(tokenizer.hasMoreTokens()) {
             String token = tokenizer.nextToken();
-            result.append(generator.generate(token));
+            try {
+                result.append(generator.generate(token));
+            } catch (Exception e) {
+                System.out.println(e.getMessage());
+            }
         }
         return result.toString();
     }
