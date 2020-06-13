@@ -5,18 +5,18 @@ import rule.Config;
 import java.util.Random;
 
 public class GaussianDistribution {
-    private static final Random rand = new Random();
+    private static Random rand = new Random();
 
-    private static double sample(double expectation, double stdDeviation) {
+    static double sample(double expectation, double stdDeviation) {
         return Math.abs(rand.nextGaussian() * stdDeviation + expectation);
     }
 
-    private static String generateFormat(String format, double expectation, double stdDeviation) {
+    static String generateFormat(String format, double expectation, double stdDeviation) {
         return String.format(format, sample(expectation, stdDeviation));
     }
 
 
-    public static String generate(String term) throws Exception {
+    public static String generate(String term) {
         switch (term) {
             case "StockPrice":
                 return generateFormat(
@@ -103,20 +103,8 @@ public class GaussianDistribution {
                         Config.VND.DEVIATION
                 );
             default:
-                throw new Exception("The term \"" + term + "\" has no generator");
+                return term;
         }
-    }
-
-    public static void main(String[] args) {
-
-        for (int i = 0; i < 10; i++) {
-            try {
-                System.out.println(GaussianDistribution.generate("TransactionValue"));
-            } catch (Exception e) {
-                System.out.println(e.getMessage());
-            }
-        }
-
     }
 
 }
