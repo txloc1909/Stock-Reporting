@@ -74,8 +74,7 @@ public class Interactive extends JFrame {
 
             @Override
             public void actionPerformed(ActionEvent e) {
-                FileLoader fl = new FileLoader("C:\\Users\\ABC\\IdeaProjects\\OOP\\src" +
-                        "\\storage\\ban.txt");
+                FileLoader fl = new FileLoader("ban.txt");
                 try {
                     for (int i = 0; i < 10; i++) {
                         String template = fl.readRandomLine();
@@ -95,8 +94,7 @@ public class Interactive extends JFrame {
             @Override
             public void actionPerformed(ActionEvent e) {
 
-                FileLoader fl = new FileLoader("C:\\Users\\ABC\\IdeaProjects\\OOP\\src" +
-                        "\\storage\\mua.txt");
+                FileLoader fl = new FileLoader("mua.txt");
                 try {
                     for (int i = 0; i < 10; i++) {
                         String template = fl.readRandomLine();
@@ -114,8 +112,7 @@ public class Interactive extends JFrame {
 
             @Override
             public void actionPerformed(ActionEvent e) {
-                FileLoader fl = new FileLoader("C:\\Users\\ABC\\IdeaProjects\\OOP\\src" +
-                        "\\storage\\tang.txt");
+                FileLoader fl = new FileLoader("tang.txt");
                 try {
                     for (int i = 0; i < 10; i++) {
                         String template = fl.readRandomLine();
@@ -134,8 +131,7 @@ public class Interactive extends JFrame {
 
             @Override
             public void actionPerformed(ActionEvent e) {
-                FileLoader fl = new FileLoader("C:\\Users\\ABC\\IdeaProjects\\OOP\\src" +
-                        "\\storage\\giam.txt");
+                FileLoader fl = new FileLoader("giam.txt");
                 try {
                     for (int i = 0; i < 10; i++) {
                         String template = fl.readRandomLine();
@@ -154,8 +150,7 @@ public class Interactive extends JFrame {
 
             @Override
             public void actionPerformed(ActionEvent e) {
-                FileLoader fl = new FileLoader("C:\\Users\\ABC\\IdeaProjects\\OOP\\src" +
-                        "\\storage\\giao_dich.txt");
+                FileLoader fl = new FileLoader("giao_dich.txt");
                 try {
                     for (int i = 0; i < 10; i++) {
                         String template = fl.readRandomLine();
@@ -174,8 +169,7 @@ public class Interactive extends JFrame {
 
             @Override
             public void actionPerformed(ActionEvent e) {
-                FileLoader fl = new FileLoader("C:\\Users\\ABC\\IdeaProjects\\OOP\\src" +
-                        "\\storage\\niem_yet.txt");
+                FileLoader fl = new FileLoader("niem_yet.txt");
                 try {
                     for (int i = 0; i < 10; i++) {
                         String template = fl.readRandomLine();
