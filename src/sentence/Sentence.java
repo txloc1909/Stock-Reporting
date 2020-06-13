@@ -1,31 +1,28 @@
 package sentence;
 
 import generator.DataGenerator;
+import generator.Generator;
 
 import java.util.StringTokenizer;
 
 public class Sentence {
     private final String template;
-    private static final String DELIM = "|";
+    private static final String DELIMITER = "|";
     private StringBuffer result;
-    private StringTokenizer strtok;
-    private DataGenerator dataGen;
+    private StringTokenizer tokenizer;
+    private Generator generator;
 
     public Sentence(String template) {
         this.template = template;
     }
 
     public String build() {
-        strtok = new StringTokenizer(template, DELIM);
-        result = new StringBuffer("");
-        dataGen = new DataGenerator();
-        while(strtok.hasMoreTokens()) {
-            try {
-                String token = strtok.nextToken();
-                result.append(dataGen.generate(token));
-            } catch (Exception e) {
-                System.out.println(e.getMessage());
-            }
+        tokenizer = new StringTokenizer(template, DELIMITER);
+        result = new StringBuffer();
+        generator = new DataGenerator();
+        while(tokenizer.hasMoreTokens()) {
+            String token = tokenizer.nextToken();
+            result.append(generator.generate(token));
         }
         return result.toString();
     }
