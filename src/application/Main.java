@@ -8,8 +8,8 @@ public class Main {
 
             @Override
             public void run() {
-                Interactive ex = new Interactive();
-                ex.setVisible(true);
+                Interactive user_panel = new Interactive();
+                user_panel.setVisible(true);
             }
         });
     }

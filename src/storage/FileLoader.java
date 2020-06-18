@@ -36,9 +36,9 @@ public class FileLoader {
         FileReader reader = new FileReader(fileName);
         BufferedReader buf = new BufferedReader(reader);
         Random rand = new Random();
-        int a = rand.nextInt(fileSize);
+        int random_index = rand.nextInt(fileSize);
 
-        for (int i = 0; i < a; i++) {
+        for (int i = 0; i < random_index; i++) {
             buf.readLine();
         }
         output = buf.readLine();
