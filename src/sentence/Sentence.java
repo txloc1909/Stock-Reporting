@@ -1,6 +1,6 @@
 package sentence;
 
-import generator.DataGenerator;
+import generator.RandomGenerator;
 import generator.Generator;
 
 import java.util.StringTokenizer;
@@ -19,7 +19,7 @@ public class Sentence {
     public String build() {
         tokenizer = new StringTokenizer(template, DELIMITER);
         result = new StringBuffer();
-        generator = new DataGenerator();
+        generator = new RandomGenerator();
         while(tokenizer.hasMoreTokens()) {
             String token = tokenizer.nextToken();
             try {

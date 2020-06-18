@@ -2,7 +2,7 @@ package generator;
 
 import rule.Terms;
 
-public class DataGenerator implements Generator {
+public class RandomGenerator implements Generator {
 
     public String generate(String term) throws Exception {
         if (Terms.GAUSSIAN_DISTRIBUTED.contains(term))
