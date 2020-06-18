@@ -179,7 +179,7 @@ Trong danh sách cổ phiếu tăng giá mạnh nhất với tỷ lệ |SmallPer
 Nhờ đó, từ khi chào sàn với mức giá khoảng |StockPrice|/cổ phiếu,  sau đó |StockCode| vọt lên |StockPrice|/cổ phiếu, tức đã tăng giá hơn 3 lần trong khi tình hình kinh doanh không có gì là đặc sắc.
 Với khối lượng giao dịch lên tới |StockAmount| – cao nhất trong vòng 20 phiên trở lại đây, |StockCode| đã leo lên vị trí đứng đầu về khối lượng giao dịch khi chiếm tỷ trọng tới |MediumPercentage| toàn thị trường.
 Hôm qua cũng là ngày thứ |Date| liên tiếp, |StockCode| tiếp tục hồi phục giá khi +|StockPriceVariation|... Phiên này, |StockCode| đã ngừng chuỗi tăng và giảm |StockPriceVariation|, cùng với đó còn có các cổ phiếu |StockCode| và |StockCode|.
-Trong ngày |Date|/|Month|, giá |StockCode| vẫn tăng nhẹ (|Stockprice|) với lượng giao dịch lên tới hơn |StockAmount| trong khi các penny đầu P (họ dầu khí) khác đã tụt dốc từ |Date|/|Month| hoặc vài phiên trước đó.
+Trong ngày |Date|/|Month|, giá |StockCode| vẫn tăng nhẹ (|StockPrice|) với lượng giao dịch lên tới hơn |StockAmount| trong khi các penny đầu P (họ dầu khí) khác đã tụt dốc từ |Date|/|Month| hoặc vài phiên trước đó.
 Hai tuần qua, cổ phiếu |StockCode| của |Company| trở thành cổ phiếu “có sóng” lớn nhất trên sàn, khi tăng trần 9 phiên liên tiếp sau quãng thời gian giảm sàn 15 phiên liên tục trước đó.
 Tương tự, cổ phiếu |StockCode| của |Company| cũng tăng giá kịch trần, lên |StockPrice|/cổ phiếu trong phiên ngày |Date|/|Month|, sau khi nhiều phiên tăng giá kể từ đầu tháng |Month|.
 Cụ thể, sau chuỗi thăng hoa vào những ngày cuối tháng 5 và đầu tháng 6 với hàng loạt giao dịch tăng trần, cổ phiếu |StockCode| đã trải qua gần một tháng không có phiên nào tăng giá.
