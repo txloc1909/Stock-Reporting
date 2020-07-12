@@ -3,3 +3,5 @@ out
 
 Experimental*
 src/META-INF
+
+*.jar
